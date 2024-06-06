@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+This is a testing project to practice pushing using git bash
+* thanks to Code Camp
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
